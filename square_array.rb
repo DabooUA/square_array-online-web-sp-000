@@ -1,3 +1,4 @@
 def square_array(array)
-  # your code here
+  new_numbers = []
+  square_array.each_char { |chr|  }
 end
