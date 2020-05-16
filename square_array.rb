@@ -9,6 +9,6 @@ end
 
 def square_array(array)
   new_numbers = []
-  array.collect << new_numbers {|num| array ** 2} |num|
+  array.collect = new_numbers {|num| num ** 2} 
 
 end
