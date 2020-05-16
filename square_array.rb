@@ -1,4 +1,6 @@
 def square_array(array)
   new_numbers = []
-  square_array.each_char { |chr|  }
+  array.each do |num|
+    new_numbers < (num ** 2)
+  end
 end
