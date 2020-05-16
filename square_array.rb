@@ -1,4 +1,4 @@
-def square_array(array)
+def square_array(numbers)
   new_numbers = []
   array.each do |num|
     new_numbers < (num ** 2)
